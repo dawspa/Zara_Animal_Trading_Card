@@ -1,0 +1,48 @@
+.card {
+    width: 310px;
+    margin: 16px;
+    font-family: inherit;
+    background-image: url("http://i68.tinypic.com/syntrp.png");
+    background-size: 100% 100%;
+    color: whitesmoke;
+}
+
+.box {
+    border: solid 2px ghostwhite;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 2px rgba(0, 0, 0, 0.32);
+    padding: 0 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgba(105, 100, 100, 0.6);
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    margin: 0 auto;
+    display: block;
+    width: 300px;
+    border: solid 2px ghostwhite;
+    box-shadow: 5px 5px 5px 2px rgba(0, 0, 0, 0.32);
+}
+
+p {
+    text-align: left;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.fact {
+    font-style: italic;
+}
+
+span {
+    font-weight: bold;
+}
