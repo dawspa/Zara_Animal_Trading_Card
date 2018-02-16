@@ -17,11 +17,11 @@
     background-color: rgba(105, 100, 100, 0.6);
 }
 
-h1 {
+.animal-name {
     text-align: center;
 }
 
-img {
+.animal-image {
     margin: 0 auto;
     display: block;
     width: 300px;
@@ -29,11 +29,11 @@ img {
     box-shadow: 5px 5px 5px 2px rgba(0, 0, 0, 0.32);
 }
 
-p {
+.fact-text {
     text-align: left;
 }
 
-ul {
+.animal-list {
     list-style-type: none;
     padding: 0;
     margin: 0;
@@ -43,6 +43,10 @@ ul {
     font-style: italic;
 }
 
-span {
+.list-label {
     font-weight: bold;
+}
+
+body {
+    font-family: Verdana, sans-serif;
 }
